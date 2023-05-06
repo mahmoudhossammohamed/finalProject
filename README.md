@@ -2,9 +2,8 @@
 android application for travelling agency
 # Features
 ## Recycle view
-## AirPlane reciever
 ## Notifications
-
+## Broadcast Reciever
 # Pages
 ## 1-Splash activity
 ## 2-Register page
@@ -13,3 +12,4 @@ android application for travelling agency
 ## 5-Tour detail guide
 ## 6-fragLocation
 ## 7-view receipt
+## AirPlane reciever
