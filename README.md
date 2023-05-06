@@ -1,9 +1,9 @@
 # Travel-App
 android application for travelling agency
 ## Features
-# Recycle view
-# AirPlane reciever
-# Notifications
+ Recycle view
+ AirPlane reciever
+ Notifications
 
 ## Pages
 # 1-Splash activity
