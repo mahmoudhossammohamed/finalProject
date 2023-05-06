@@ -5,11 +5,11 @@ android application for travelling agency
  AirPlane reciever
  Notifications
 
-## Pages
-# 1-Splash activity
-# 2-Register page
-# 3-Login page
-# 4-Home activity
-# 5-Tour detail guide
-# 6-fragLocation
-# 7-view receipt
+# Pages
+## 1-Splash activity
+## 2-Register page
+## 3-Login page
+## 4-Home activity
+## 5-Tour detail guide
+## 6-fragLocation
+## 7-view receipt
